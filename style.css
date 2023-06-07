@@ -1,0 +1,15 @@
+.box {
+    margin: 0.5%;
+    width: 15%;
+    min-width: 100px;
+    background-color: white;
+    color:black;
+  }
+  
+  .box:hover {
+    background-color: blue;
+    color:white;
+  }
+  nav {
+    overflow: auto;
+  }
